@@ -1,3 +1,2 @@
-# Shellcode generator
+# Simple-polymorphic-shellcode-generator (x86)
 
-Simple shellcode generator
