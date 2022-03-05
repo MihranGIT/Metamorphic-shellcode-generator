@@ -70,11 +70,10 @@ def code_changer():
         if "mov al, 33" in line:
             n = random.randint(0,1)
             if n == 1:
-                n = random.randint(0,32)
-                line = stripped_line.replace("mov al, 33", "mov al, " +  str(n) + "\n")
-                reste = 33-n
-                Lines.insert((i), "add al, " + str(reste) +  "\n")
-
+                n = random.randint(0,50)
+                line = stripped_line.replace("mov al, 33", "mov al, " +  hex(n) + "\n")
+                reste = 51 - n
+                Lines.insert((i), "add al, " + hex(reste) +  "\n")
         new_payload.write(line)
     new_payload.close()
     AssemblyCode.close()
