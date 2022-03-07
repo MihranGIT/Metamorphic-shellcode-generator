@@ -87,6 +87,7 @@ def new_payload():
     print("[+] Nouveau payload compilé et linké : new_payload")
     print("[+] New shellcode : ", shellcode.hex())
     print("[+] Taille : %d bytes - No NULL bytes" % len(shellcode))
+
 def clean():
     os.system("rm payload.o")
     os.system("rm new_payload.o")
