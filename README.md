@@ -11,4 +11,9 @@ For example :
 
 This program simply modifies randomly some of the instructions of payload.s by instructions doing the same things.
 
-To launch it, just clone the repository and type "python poly_shellcode.py"
+To launch it, just clone the repository and type "python poly_shellcode.py". 
+Some import may needs to be installed on your machine If you don't have it.
+
+Screenshots :
+![image](https://user-images.githubusercontent.com/91540388/157424416-9ab21f5e-00ab-4a52-b687-cbe8a9d691a2.png)
+
