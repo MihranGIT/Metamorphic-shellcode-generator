@@ -20,6 +20,7 @@ To launch it, just clone the repository and type "python poly_shellcode.py".
 Some import may needs to be installed on your machine If you don't have it.
 
 Screenshots :
-![image](https://user-images.githubusercontent.com/91540388/157425288-623aab12-fa0e-4fff-9bc9-31badab73cdf.png)
+![image](https://user-images.githubusercontent.com/91540388/157425427-3ee266f6-0ca1-4243-b943-57f680dbde74.png)
+
 
 
