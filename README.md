@@ -10,3 +10,5 @@ For example :
   - etc...
 
 This program simply modifies randomly some of the instructions of payload.s by instructions doing the same things.
+
+To launch it, just clone the repository and type "python poly_shellcode.py"
