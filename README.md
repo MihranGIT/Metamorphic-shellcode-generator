@@ -9,6 +9,8 @@ For example :
   - NOP instruction (null instruction) can be added randomly between 2 lines of instructions
   - etc...
 
+Many others instructions can be replaced, "dead code" can be introduced or encoding/decoding technics also.
+
 This program simply modifies randomly some of the instructions of payload.s by instructions doing the same things.
 
 To launch it, just clone the repository and type "python poly_shellcode.py". 
