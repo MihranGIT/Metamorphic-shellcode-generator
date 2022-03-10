@@ -19,8 +19,8 @@ This program simply modifies randomly some of the instructions of payload.s by i
 To launch it, just clone the repository and type "python poly_shellcode.py". 
 Some import may needs to be installed on your machine If you don't have it.
 
-Screenshots :
-![image](https://user-images.githubusercontent.com/91540388/157425427-3ee266f6-0ca1-4243-b943-57f680dbde74.png)
+Output of the program :
+![image](https://user-images.githubusercontent.com/91540388/157630300-6bf94abf-703c-4c81-88da-34b589170f04.png)
 
 
 
