@@ -23,5 +23,4 @@ Output of the program :
 
 ![image](https://user-images.githubusercontent.com/91540388/157630300-6bf94abf-703c-4c81-88da-34b589170f04.png)
 
-
-
+The payload used as POC is a simple reverse shell written in x64 for the local IP 127.0.0.1
