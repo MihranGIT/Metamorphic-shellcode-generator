@@ -25,4 +25,4 @@ Output of the program :
 
 The payload used as POC is a simple reverse shell written in x64 for the local IP 127.0.0.1
 
-For some reasons something, the new payload is not working sometimes. I didn't find the reason. It's seems that the calculus in the al registry (mov al, 33) are not correctly done for some cases. Tried to debug with gdb without being able to fix it (issue while assembling/linking maybe?)
+For some reasons sometimes, the new payload is not working properly. I didn't find the reason. It's seems that the calculus in the al registry (mov al, 33) are not correctly done for some cases. Tried to debug with gdb without being able to fix it (issue while assembling/linking maybe?)
