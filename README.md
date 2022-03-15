@@ -24,3 +24,5 @@ Output of the program :
 ![image](https://user-images.githubusercontent.com/91540388/157630300-6bf94abf-703c-4c81-88da-34b589170f04.png)
 
 The payload used as POC is a simple reverse shell written in x64 for the local IP 127.0.0.1
+
+For some reasons something, the new payload is not working sometimes. I didn't find the reason. It's seems that the calculus in the al registry (mov al, 33) are not correctly done for some cases. Tried to debug with gdb without being able to fix it (issue while assembling/linking maybe?)
