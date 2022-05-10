@@ -3,7 +3,7 @@
 [+] Python3
 [+] Linux amd64
 
-The polymorphism means the ability of an object to take on many forms. In computer science, the term polymorphism also means the ability of different objects/codes to respond in a unique way to the same functionality.
+The metamorphic means the ability of an object to take on many forms. In computer science, the term metamorphic also means the ability of different objects/codes to respond in a unique way to the same functionality.
 
 In assembly, many instructions can be replaced by others one doing the same things.
 For example :
